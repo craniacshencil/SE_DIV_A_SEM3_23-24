@@ -1,0 +1,55 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    admin2:
+      email: admin2@carbazaar.com
+      name: admin2
+      password: $2b$12$KarV1MQZZQpHHeEd8rmCCuRdk.wl0JPwrpdZ7F80eXlx8JXKXhRzy
+    akattali:
+      email: aaryaman2610@gmail.com
+      name: Aaryaman Kattali
+      password: $2b$12$5gmCTC.zpdrLhJZIeUq43e.H4cxwmfw8Y8izuoP5Smm2k3Pd/XVAK
+      phone_number: 7678069291
+    blacklytning:
+      email: blacklytning@yandex.com
+      name: Black
+      password: $2b$12$Te/7jyyRdZzUZPSAOYsa.OKU.wocXjCBtBArdqEqW/XbVAFOfP.y6
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$BlkXPSf6DqYKHuqxzbChhepOMQt3sNMI9./UPMJsFTdRd/kWj0FFi
+      phone_number: 8806053709
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$5RLbOgMzQnwE9mk6pBZ1uek6kAKOfTr5yv1Jy5kG/3/kRDrhv9Nqe
+    rnikam:
+      email: rajnikam@hotmail.com
+      name: Raj Nikam
+      password: $2b$12$.IUnsdIlCAQfWyScla2Ym.8oD/bLoF.GWJh6fdYhzoTPmBkBCQJ9G
+      phone_number: 8806053709
+    supervisor2:
+      email: supervisor2@carbazaar.com
+      name: supervisor2
+      password: $2b$12$YxENI34ncmWKkKNy03hZuupGDGkzT8kS20IAiAABkrj1OlxKAGevC
+    tmaske:
+      email: tejashri123@gmail.com
+      name: Tejashri Maske
+      password: $2b$12$S7TxFrVHuhgkJmBd5ujaQeN4ipAyGBp58x.w.gxuJe4j21HkdtgL6
+      phone_number: 9324097971
+    user1:
+      email: user1@gmail.com
+      name: user1
+      password: $2b$12$x16c3yMEJPX0FbeEy0KAKuQ.HLqtmX.MnkKR1gAmABC1NDRmdfmPa
+      phone_number: 7875338935
+    user2:
+      email: user2@gmail.com
+      name: user2
+      password: $2b$12$K1Vnt82lWYTNlRQt5gscuuqA8r/SxzTQSctB2WYM5SHuRHPS4ZY0u
+      phone_number: 8806053709
+preauthorized:
+  emails:
+  - melsby@gmail.com
